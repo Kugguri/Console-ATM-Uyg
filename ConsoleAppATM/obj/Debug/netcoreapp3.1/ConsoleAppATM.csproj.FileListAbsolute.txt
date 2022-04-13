@@ -1,0 +1,14 @@
+C:\Users\TOSHIBA\source\repos\ders1_2019\ConsoleAppATM\bin\Debug\netcoreapp3.1\ConsoleAppATM.exe
+C:\Users\TOSHIBA\source\repos\ders1_2019\ConsoleAppATM\bin\Debug\netcoreapp3.1\ConsoleAppATM.deps.json
+C:\Users\TOSHIBA\source\repos\ders1_2019\ConsoleAppATM\bin\Debug\netcoreapp3.1\ConsoleAppATM.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\ders1_2019\ConsoleAppATM\bin\Debug\netcoreapp3.1\ConsoleAppATM.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\ders1_2019\ConsoleAppATM\bin\Debug\netcoreapp3.1\ConsoleAppATM.dll
+C:\Users\TOSHIBA\source\repos\ders1_2019\ConsoleAppATM\bin\Debug\netcoreapp3.1\ConsoleAppATM.pdb
+C:\Users\TOSHIBA\source\repos\ders1_2019\ConsoleAppATM\obj\Debug\netcoreapp3.1\ConsoleAppATM.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\ders1_2019\ConsoleAppATM\obj\Debug\netcoreapp3.1\ConsoleAppATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\ders1_2019\ConsoleAppATM\obj\Debug\netcoreapp3.1\ConsoleAppATM.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\ders1_2019\ConsoleAppATM\obj\Debug\netcoreapp3.1\ConsoleAppATM.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\ders1_2019\ConsoleAppATM\obj\Debug\netcoreapp3.1\ConsoleAppATM.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\ders1_2019\ConsoleAppATM\obj\Debug\netcoreapp3.1\ConsoleAppATM.dll
+C:\Users\TOSHIBA\source\repos\ders1_2019\ConsoleAppATM\obj\Debug\netcoreapp3.1\ConsoleAppATM.pdb
+C:\Users\TOSHIBA\source\repos\ders1_2019\ConsoleAppATM\obj\Debug\netcoreapp3.1\ConsoleAppATM.genruntimeconfig.cache
